@@ -1,0 +1,21 @@
+.pane{
+    -fx-background-color:linear-gradient(from 0% 0% to 100% 100%, red 0%, black 100%);
+}
+.label {
+    -fx-font-size: 12pt;
+    -fx-text-fill: #fff;
+}
+#btEntrar{
+     -fx-background-color:#008000;
+}
+#btEntrar:hover{
+     -fx-background-color:#006400;
+     -fx-cursor:hand;
+}
+#btSair{
+     -fx-background-color:#ff0000;
+}
+#btSair:hover{
+     -fx-background-color:#ff6347;
+     -fx-cursor:hand;
+}

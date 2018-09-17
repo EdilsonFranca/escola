@@ -1,0 +1,38 @@
+.pane{
+   
+}
+.button{
+   -fx-font: 14 arial; 
+   -fx-base: #b6e7c9;
+   -fx-text-fill: #000;
+   -fx-pref-width: 250px;
+   -fx-padding: 3px;
+   -fx-border-insets: 3px;
+   -fx-background-insets: 3px;
+   
+  }
+  
+
+.pane2{
+    -fx-background-color:#008b8b;
+ }
+ .pane3{
+    -fx-background-color:#fff;
+ }
+ .lbldataEnome{
+    -fx-text-fill: #008b8b;
+    -fx-font: 20 arial; 
+ }
+ .lblNome{
+    
+ }
+
+.tbNotas{
+   -fx-font-size: 12pt;
+   -fx-pref-width:700px;
+}
+.columnNota{ 
+    -fx-pref-width:120px;
+    -fx-font: 15 arial; 
+     
+  }
